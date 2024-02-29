@@ -10,11 +10,11 @@
 
 
 
-- 🔭 I’m currently working on **Anther**
+- 🔭 I’m currently working on **Frappe ERPNEXT Appilcations**
 
 - 🌱 I’m currently learning **Python libraries and Frappe Modules**
 
-- 💬 Ask me about **Frappe, Django, React**
+- 💬 Ask me about **Frappe,ERPNEXT,Django,React**
 
 - 📫 How to reach me **rahuljcet95@gmail.com**
   
