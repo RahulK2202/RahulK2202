@@ -2,7 +2,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQFSrO3pHtIjAQ/profile-displaybackgroundimage-shrink_350_1400/0/1689223642308?e=1714608000&v=beta&t=7msOyVnytVbn_QEH2Br12AXhfACqADwY9ICsfQJW6wU)](https://www.linkedin.com/in/rahul-k-7735ba153/)
 
 <h1 align="center">Hi 👋, I'm Rahul K</h1>
-<h3 align="center">Python Web Developer || Django || Frappe || ERPNext || React || ORM || PSQL || MONGO DB || BOOTSTRAP || HTML || CSS || AWS||Datastructures|</h3>
+<h3 align="center">A passionate Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
