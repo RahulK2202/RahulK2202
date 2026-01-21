@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rahuljcet95@gmail.com**
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulk2202" alt="rahulk2202" /></a> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
