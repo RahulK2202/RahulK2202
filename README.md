@@ -9,8 +9,8 @@
 
 - 🔭 I'm currently working on **Frappe ERPNext Applications**
 
-- 🌱 I'm currently learning **Python Libraries and Frappe Modules**
-
+- 🌱 Techno-Functional ERP Developer | Frappe & ERPNext | Python | ERP Implementation & Customization
+  
 - 💬 Ask me about **Frappe, ERPNext, Django, React**
 
 - 📫 How to reach me: **rahuljcet95@gmail.com**
