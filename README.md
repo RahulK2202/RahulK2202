@@ -41,10 +41,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rahulk2202&show_icons=true&theme=default&count_private=true" alt="rahulk2202 stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulk2202&layout=compact&theme=default" alt="rahulk2202 top langs" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rahulk2202&theme=default" alt="rahulk2202 streak" />
