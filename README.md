@@ -8,10 +8,8 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-- 🔭 I'm currently building **Frappe / ERPNext** applications and leading implementations across manufacturing, trading, and service-sector clients
 - 🌱 Techno-Functional ERP Developer — **Frappe · ERPNext · Python · Django · React**
 - 💡 Comfortable across the full stack: DocTypes, hooks, Server/Client Scripts, Jinja print formats, and custom app architecture
-- 🛠️ Recently working on GST compliance tooling, CRM integrations, and offline-first sync systems
 - 💬 Ask me about **Frappe, ERPNext, ERP implementation, Python, React**
 - 📫 Reach me: **rahuljcet95@gmail.com**
 
