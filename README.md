@@ -35,20 +35,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rahulk2202&show_icons=true&theme=default&count_private=true" alt="rahulk2202 stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulk2202&layout=compact&theme=default" alt="rahulk2202 top langs" />
-</p> -->
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rahulk2202&theme=default" alt="rahulk2202 streak" />
-</p>
-
----
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
